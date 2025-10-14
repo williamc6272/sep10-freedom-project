@@ -23,7 +23,7 @@ Through my blog I have been able to learn communication and how to communicate w
 Being able to think outside the box is something I have always struggled with as I always rely on information I know to create something. Thanks to this blog I have been able to think outside the box and be more creative with the ways I will code, and think of solutions for my blog. At first I was confused on what I'll do as I didn't have much information to rely on but doing research through [The future of forensics: How AI can transform investigations](https://washingtondc.jhu.edu/news/ai-in-forensics/) I've been able to learn new ideas of technological advances I can create to solve problem modern forensic science has.
 
 ## Summary
-In conclusion im very excited to create an idea for a technological advance in modern forensic science. Through this blog I will be able to further connect myself with coding, and technology and hopefully someday invent something in the field of forennsic science.
+In conclusion im very excited to create an idea for a technological advance in modern forensic science. Through this blog I will be able to further connect myself with coding, and technology and hopefully someday invent something in the field of forensic science.
 
 [Next](entry02.md)
 
