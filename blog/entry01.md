@@ -14,7 +14,7 @@ I am currently in the first stage of the engineering design process, where the m
 Some skills that I’ve learned from working on this blog are **Critical thinking** **Communication** and **Creativity**
 
 #### Critical thinking
-Working on this project has helped me developed the ability of critical thinking because i've learned to question my ideas, and expand my mind by seeing diffirent viewpoints of problems and solutions technology has with foorensic science. Ive also learned to reflect on what I have learned to scenarios I may encounter in real life when I have a problem and how I can solve this problem.
+Working on this project has helped me developed the ability of critical thinking because i've learned to question my ideas, and expand my mind by seeing diffirent viewpoints of problems and solutions technology has with forensic science. Ive also learned to reflect on what I have learned to scenarios I may encounter in real life when I have a problem and how I can solve this problem.
 
 #### Communication
 Through my blog I have been able to learn communication and how to communicate with others. Though not many people have the same ideas I do, I use communication to talk to others of similarities we may have and compare our ideas and how we can make our ideas more stronger. I also have developed technology better because im able to explain my ideas better and how to present them better to other people.
