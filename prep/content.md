@@ -29,6 +29,6 @@ Forensics](https://www.grierforensics.com/capabilities/device-forensics/)
 * Other searches:
   * "Forensic Science most benefiting technologies"
     * [The interface between forensic science and technology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4581008/)
-## Part B: possible futppure technology
+## Part B: possible future technology
 * Idea
   * Detail
