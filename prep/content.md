@@ -16,7 +16,7 @@ Forensics](https://www.grierforensics.com/capabilities/device-forensics/)
       * This technologic device is called a disk
       * The disk helpes scientists store important data
       * The disk stores valuable information that can be shared while the data is still actionable.
-    * Second website I looked into was [What does the bone you are identifying most look like](https://boneidentification.com/about/)
+  * Second website I looked into was [What does the bone you are identifying most look like](https://boneidentification.com/about/)
       * This app is a morphological information tool to determine whether a bone is potentially human.
       * OsetoID also helps identify a bone if it is non-human, to which animal species does it belong.
       * This app is free to use for everyone on Windows, IOS and more!
