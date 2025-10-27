@@ -29,6 +29,22 @@ Forensics](https://www.grierforensics.com/capabilities/device-forensics/)
 * Other searches:
   * "Forensic Science most benefiting technologies"
     * [The interface between forensic science and technology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4581008/)
+  * "Finger print analysis devices"
+  * [MY-PCR Workstation](https://mystaire.com/products/my-pcr-workstation)
+* PCR Prep stations
+    * PCR prep stations are compact laminar flow enclosures
+    * Prevents sample from external contamination.
+    * Ranging price $600-$5,000
+    * Usually are thermage cyclers and use AC power1
+    * MY‑PCR prep stations are bench‑top personal clean zones allowing the operator to amplify RNA and DNA
+ * Next Generation Identification (NGI) System
+  * [Modern Forensic Science Technologies](https://www.forensicscolleges.com/blog/resources/10-modern-forensic-science-technologies)
+  * A database that stores data
+  * A system that continuously monitors individuals in law enforcement databases and provides real-time updates on any new criminal activity
+  * Helps with improved fingerprint analysis, and iris scans
+  * Allows for rapid identification
+  * Provides real-time updates on any new criminal activity.
+  
 ## Part B: possible future technology
 * Idea
   * Detail
