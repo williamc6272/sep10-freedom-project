@@ -52,8 +52,12 @@ Forensics](https://www.grierforensics.com/capabilities/device-forensics/)
 ## Part B: possible future technology
 * Forensic Nanobots
   * One problem in the forensic world is the absense of evidence in a crime scence do to tamperment/destruction of the crime scene.
-  * In the future, microscopic forensic robots could be used to repair or reconstruct damaged evidence at a crime scene. These tiny machines would detect and follow specific frequencies or signal patterns, allowing them to locate broken particles of materials like fabric fibers, fingerprints, or DNA fragments. By reorganizing these particles into their original structure, the robots could help restore evidence that would otherwise be impossible to analyze. This technology would greatly improve accuracy in investigations and help solve cases that currently lack usable evidence.
-  * The microscopic forensic robots could be made from inexpensive materials like conductive components making each unit affordable to produce. They would also use low-energy systems, such as tiny rechargeable micro batteries or energy harvested from environmental frequencies, which reduces operating costs. This can help forensic scientists have a bigger budget to buy other stuff as well as being able to rapidly solve crime.
+  * In the future, microscopic forensic robots could be used to repair or reconstruct damaged evidence at a crime scene. These tiny machines would detect and follow specific frequencies or signal patterns, allowing them to locate broken particles of materials like fabric fibers, fingerprints, or DNA fragments. 
+  * Reorganizing these particles into their original structure, the robots could help restore evidence that would otherwise be impossible to analyze.
+  * This technology would greatly improve accuracy in investigations and help solve cases that currently lack usable evidence.
+  * The microscopic forensic robots could be made from inexpensive materials like conductive components making each unit affordable to produce.
+  * They would also use low-energy systems, such as tiny rechargeable micro batteries or energy harvested from environmental frequencies, which reduces operating costs.
+  * This can help forensic scientists have a bigger budget to buy other stuff as well as being able to rapidly solve crime.
    ![Forensic Nanorobots](https://t4.ftcdn.net/jpg/06/28/59/81/360_F_628598160_rRAuPho7dmOHkFj5FAnP9g2N2NfFJJSY.jpg)
 *  Quantum computers
 *  Although its in the early stages of the modern world it still needs huge improvement and caǹ easily develop fingerprints and analyze small details our modern technology cant
