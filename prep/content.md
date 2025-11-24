@@ -12,7 +12,7 @@
       * OsetoID also helps identify a bone if it is non-human, to which animal species does it belong.
       * This app is free to use for everyone on Windows, IOS and more!
       * App is mainly used by anthropologists, medico-legal death investigators, crime scene personnel, coroners, medical examiners, and law enforcement.
-  * Third website I looked into was [CrimeStat: Spatial Statistics Program for the Analysis of Crime Incident Locations](https://frog.med.yale.edu/FrogKB/index.jsp](https://nij.ojp.gov/topics/articles/crimestat-spatial-statistics-program-analysis-crime-incident-locations)
+  * Second website I looked into was [CrimeStat: Spatial Statistics Program for the Analysis of Crime Incident Locations](https://frog.med.yale.edu/FrogKB/index.jsp)
      * App is used as a map for police departments and criminal justice
      * It calculates various spatial statistics and writes graphical objects to ArcGIS, MapInfo, Surfer for Windows and other GIS packages.
      * It is Windows hardware based only.
@@ -29,7 +29,7 @@ Forensics](https://www.grierforensics.com/capabilities/device-forensics/)
       * This technologic device is called a disk
       * The disk helpes scientists store important data
       * The disk stores valuable information that can be shared while the data is still actionable.
-      * Disks range from $1500-$2000
+      * Disks range from $500-$2000
 ### Cost $1000-$5000
 * "Forensic Science most benefiting technologies"
     * [The interface between forensic science and technology](https://pmc.ncbi.nlm.nih.gov/articles/PMC4581008/)
@@ -42,23 +42,23 @@ Forensics](https://www.grierforensics.com/capabilities/device-forensics/)
     * Usually are thermage cyclers and use AC power1
     * MY‑PCR prep stations are bench‑top personal clean zones allowing the operator to amplify RNA and DNA
  * Next Generation Identification (NGI) System
-  * [Modern Forensic Science Technologies](https://www.forensicscolleges.com/blog/resources/10-modern-forensic-science-technologies)
-  * A database that stores data
-  * A system that continuously monitors individuals in law enforcement databases and provides real-time updates on any new criminal activity
-  * Helps with improved fingerprint analysis, and iris scans
-  * Allows for rapid identification
-  * Provides real-time updates on any new criminal activity.
+   * [Modern Forensic Science Technologies](https://www.forensicscolleges.com/blog/resources/10-modern-forensic-science-technologies)
+   * A database that stores data
+   * A system that continuously monitors individuals in law enforcement databases and provides real-time updates on any new criminal activity
+   * Helps with improved fingerprint analysis, and iris scans
+   * Allows for rapid identification
+   * Provides real-time updates on any new criminal activity.
   
 ## Part B: possible future technology
 * Forensic Nanobots
   * One problem in the forensic world is the absense of evidence in a crime scence do to tamperment/destruction of the crime scene.
   * In the future, microscopic forensic robots could be used to repair or reconstruct damaged evidence at a crime scene. These tiny machines would detect and follow specific frequencies or signal patterns, allowing them to locate broken particles of materials like fabric fibers, fingerprints, or DNA fragments. By reorganizing these particles into their original structure, the robots could help restore evidence that would otherwise be impossible to analyze. This technology would greatly improve accuracy in investigations and help solve cases that currently lack usable evidence.
   * The microscopic forensic robots could be made from inexpensive materials like conductive components making each unit affordable to produce. They would also use low-energy systems, such as tiny rechargeable micro batteries or energy harvested from environmental frequencies, which reduces operating costs. This can help forensic scientists have a bigger budget to buy other stuff as well as being able to rapidly solve crime.
-  * The ![Forensic Nanobots](https://www.freepik.com/premium-ai-image/nanobots-assisting-forensic-investigations_160151267.htm) would look like this.
+   ![Forensic Nanorobots](https://t4.ftcdn.net/jpg/06/28/59/81/360_F_628598160_rRAuPho7dmOHkFj5FAnP9g2N2NfFJJSY.jpg)
 *  Quantum computers
 *  Although its in the early stages of the modern world it still needs huge improvement and caǹ easily develop fingerprints and analyze small details our modern technology cant
    * Will transform forensic science by analyzing DNA
    * fingerprints
    * digital evidence much faster and more accurately than traditional methods
    *  They can detect hidden patterns, solve cold cases, and access encrypted data, making investigations quicker and more precise.
-   *  Here is what they might look in the future ![Quantum computers]([https://gmo-research.ai/en/resources/articles/future-quantum-computing](https://img.pravda.ru/image/preview/article/6/5/0/2228650_amp.jpeg)
+   *  Here is what they might look in the future ![Quantum Computers](https://live.staticflickr.com/7923/46753932291_83668e4bc9_b.jpg)
