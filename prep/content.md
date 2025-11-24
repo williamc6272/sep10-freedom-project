@@ -3,7 +3,13 @@
 
 
 ## Overview/Introduction/Context
-* Forensic science uses scientific and technological tools to investigate crimes and analyze evidence. Advances in technology such as DNA profiling, digital forensics, and improved imaging have made investigations faster and more accurate. As new innovations like AI and advanced genetics emerge, the future of forensic science promises even greater precision and new ways to solve complex crimes. This may seem good but one huge problem is technology is a lot of money, and can costs upwards of the tens of thousands. This is why I along with other classmates am coming up with future technologies that can help resolve problems in my case being cost friendly and efficient.
+* Forensic science uses scientific and technological tools to investigate crimes and analyze evidence. Advances in technology such as DNA profiling, digital forensics, and improved imaging have made investigations faster and more accurate.
+* As new innovations like AI and advanced genetics emerge, the future of forensic science promises even greater precision and new ways to solve complex crimes.
+* Despite these advancements, the high cost of forensic technologies often limits accessibility, with many tools costing tens of thousands of dollars.
+* One huge problem is technology is a lot of money, and can costs upwards of the tens of thousands.
+* What technologies can help improve modern forensic science?
+* Sustainable and scalable forensic technologies can improve case resolution rates, reduce backlogs in forensic labs.
+  
 
 ## Part A: Existing technology
 ### Cost $0-$400
