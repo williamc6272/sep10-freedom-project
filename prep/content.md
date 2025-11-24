@@ -61,4 +61,4 @@ Forensics](https://www.grierforensics.com/capabilities/device-forensics/)
    * fingerprints
    * digital evidence much faster and more accurately than traditional methods
    *  They can detect hidden patterns, solve cold cases, and access encrypted data, making investigations quicker and more precise.
-   *  Here is what they might look in the future ![Quantum computers](https://gmo-research.ai/en/resources/articles/future-quantum-computing)
+   *  Here is what they might look in the future ![Quantum computers]([https://gmo-research.ai/en/resources/articles/future-quantum-computing](https://upload.wikimedia.org/wikipedia/commons/e/ee/Simplified_scale_model_of_the_quantum_computing_demonstrator_housed_in_two_19-inch_racks_with_major_components_labeled.png))
