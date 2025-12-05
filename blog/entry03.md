@@ -1,5 +1,5 @@
-# Entry 2
-##### 11/10/25
+# Entry 3
+##### 12/5/25
 ## Content 
 To brainstorm Part B, I reviewed all my research on forensic science technologies and wrote down the ideas that appeared most often, especially PCR and the Phenom SEM. I looked for patterns across my sources to decide which technologies were the most important to focus on. From there, I narrowed my list so my blog would stay clear and specific instead of trying to cover too much. After choosing my main points, I organized them in a way that explained what each technology does and how it helps forensic scientists. I then revised and edited my writing to make sure the information was accurate and easy to understand. Finally, I polished the content so it was ready for the website, and now I am moving on to creating a future innovation that could help improve the forensic science field even more.
 ## Engineering Design Process 
