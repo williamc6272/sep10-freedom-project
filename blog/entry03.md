@@ -13,13 +13,12 @@ Working on this **Forensic Science** project and being in the research stage has
 #### Problem solving
 Problem solving was an important skill I used throughout my project. I identified challenges that forensic scientists face, such as degraded DNA or faint trace evidence, and thought about ways to address them. When designing my nanotech robots, I solved issues like how they could move through surfaces safely and restore evidence without causing damage. I also considered practical challenges, such as making the robots eco-friendly and energy efficient. Using problem-solving helped me create a functional and realistic innovation that could improve forensic investigations in the future as many times I felt like quitting due to overthinking of a technology but I realized in reality i just need something that solves and design can be after this.
 ## Summary
+In this project, I explored the technology used in forensic science and imagined how it could develop in the future. I researched current tools like PCR and the Phenom SEM to understand how evidence is collected and analyzed. Using critical thinking, creativity, and problem-solving, I designed a concept for nanotech robots that can restore evidence using specific frequencies while being eco-friendly. I also followed the engineering design process to ensure my idea was realistic and addressed real forensic challenges. Overall, this project helped me combine research, innovation, and planning to create a future-focused solution for forensic science.
 
 
 
 
-[Home](../README.md)
 
-Text
 
 [Previous](entry02.md) | [Next](entry04.md)
 
