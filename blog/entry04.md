@@ -14,7 +14,10 @@ Here’s an example of the code I used to make a spinning box:
 ```
 I will use A-Frame to design a 3D model of nano robots, arranging and animating them to show how they would move and work at crime scenes.
 
-#### EDP
+## EDP
 I will use [A-Frame](https://aframe.io/docs/1.7.0/introduction/) to design my nano robots in 3D, creating a virtual scene where I can arrange the robots and animate their movements. This will allow me to explore how they could navigate surfaces, detect hidden materials, and interact with evidence at crime scenes. By experimenting in VR, I can test different designs, adjust sizes and positions, and see how small changes affect their function, all before moving on to a more detailed or physical prototype. At the next stage, I will use [A-Frame](https://aframe.io/docs/1.7.0/introduction/) HTML to build and refine my virtual nano robot model for my project, showing how the robots move and interact with evidence in a 3D environment.
 
-#### Skills
+## Skills
+
+#### Critical Thinking
+I will use critical thinking to figure out how nano robots could solve problems at crime scenes, like detecting hidden evidence or restoring degraded samples. This will help me decide the best way to design their movements and interactions in 3D.
