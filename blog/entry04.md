@@ -21,3 +21,9 @@ I will use [A-Frame](https://aframe.io/docs/1.7.0/introduction/) to design my na
 
 #### Critical Thinking
 I will use critical thinking to figure out how nano robots could solve problems at crime scenes, like detecting hidden evidence or restoring degraded samples. This will help me decide the best way to design their movements and interactions in 3D.
+
+#### Creativity
+I will use creativity to imagine innovative ways for the nano robots to navigate surfaces and interact with evidence in a virtual environment. It will also help me design their appearance and animations so the model clearly shows their function.
+
+#### Organization
+I will use organization to manage the steps of my engineering design process, from researching existing technologies to creating a virtual prototype in A-Frame. This will also help me plan the next stage, including refining the model and testing new ideas.
