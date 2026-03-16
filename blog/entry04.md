@@ -1,5 +1,5 @@
 # Entry 4
-##### 3/5/26
+##### 3/15/26
 ## Content 
 For this part of my Freedom Project, I chose [A-Frame](https://aframe.io/docs/1.7.0/introduction/), a VR tool that lets me create 3D environments in a web browser. I tinkered with it by adding shapes like boxes, spheres, and cylinders, and I experimented with their positions, sizes, colors, and rotations. I also tried adding simple animations so the objects could spin or move, which made the scene feel more interactive. I included Changing the positions of objects to see how it affected navigation in the scene, Modifying colors and sizes to make objects stand out, Adding an animation component to make the box rotate continuously.
 
@@ -27,3 +27,6 @@ I will use creativity to imagine innovative ways for the nano robots to navigate
 
 #### Organization
 I will use organization to manage the steps of my engineering design process, from researching existing technologies to creating a virtual prototype in A-Frame. This will also help me plan the next stage, including refining the model and testing new ideas.
+
+## Summary 
+I will use critical thinking to plan how nano robots could solve problems at crime scenes and decide how they should move and interact in 3D. Creativity will help me imagine innovative designs and animations for the robots, while project planning and organization will guide me through building and refining the A-Frame model step by step. Together, these skills will help me create a clear and realistic virtual prototype of my nano robot innovation.
