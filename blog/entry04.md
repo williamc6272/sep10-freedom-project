@@ -19,14 +19,14 @@ I will use [A-Frame](https://aframe.io/docs/1.7.0/introduction/) to design my na
 
 ## Skills
 
-#### Critical Thinking
-I will use critical thinking to figure out how nano robots could solve problems at crime scenes, like detecting hidden evidence or restoring degraded samples. This will help me decide the best way to design their movements and interactions in 3D.
+#### Critical Thinking 
+I improved my critical thinking skill by testing how objects move in A-Frame. For example, I changed the position and rotation of a box to understand how it looks in a 3D space and what works best in the scene.
 
-#### Creativity
-I will use creativity to imagine innovative ways for the nano robots to navigate surfaces and interact with evidence in a virtual environment. It will also help me design their appearance and animations so the model clearly shows their function.
+#### Creativity 
+I developed my creativity skill by designing how my nano robots look and move. I experimented with different shapes, colors, and animations to make the 3D model more interesting and clear.
 
-#### Organization
-I will use organization to manage the steps of my engineering design process, from researching existing technologies to creating a virtual prototype in A-Frame. This will also help me plan the next stage, including refining the model and testing new ideas.
+#### Organization 
+I improved my organization skill by keeping track of my code changes step by step using JSBin. This helped me stay organized when testing different ideas and fixing mistakes.
 
 ## Summary 
 I will use critical thinking to plan how nano robots could solve problems at crime scenes and decide how they should move and interact in 3D. Creativity will help me imagine innovative designs and animations for the robots, while project planning and organization will guide me through building and refining the A-Frame model step by step. Together, these skills will help me create a clear and realistic virtual prototype of my nano robot innovation.
