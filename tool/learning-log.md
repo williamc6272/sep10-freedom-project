@@ -26,7 +26,7 @@
   * My 3D model didn’t show up at first.
   * I had trouble getting the size right.
   * The model was just too big, so I needed to scale it down.
-  * Changing position helps me move the model where I can see it.
+  * Changing position helps me move the model where I can see it in the scene.
 
 
 
