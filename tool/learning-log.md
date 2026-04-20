@@ -27,7 +27,8 @@
   * I had trouble getting the size right.
   * The model was just too big, so I needed to scale it down.
   * Changing position helps me move the model where I can see it in the scene.
-
+* Question I still have
+  * How do I add animation or movement to a 3D model in A-Frame?
 
 
 
