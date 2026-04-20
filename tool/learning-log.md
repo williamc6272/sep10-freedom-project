@@ -29,7 +29,8 @@
   * Changing position helps me move the model where I can see it in the scene.
 * Question I still have
   * How do I add animation or movement to a 3D model in A-Frame?
-
+* What I’m going to try next:
+  * Try adding animation or movement to my 3D model.
 
 
 
