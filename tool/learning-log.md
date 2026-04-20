@@ -18,11 +18,12 @@
 ### Day 3: Potentially add an animation and finalize the final model
 * Things you tried / progress you made:
   * Added a 3D model into my A-Frame scene.
+  * Used shapes as a begginer step
   * Used gltf-model to load the model.
   * Changed the scale so I could actually see it.
   * Moved the model using position.
   * Added basic lighting so it looked better.
-  * Did all tinkering through [Js Bin](https://jsbin.com/?html,output)
+  * Did all tinkering through [Js Bin]([https://jsbin.com/?html,output](https://jsbin.com/tajuyoyepo/edit?html,output))
 * Challenges
   * My 3D model didn’t show up at first.
   * I had trouble getting the size right.
