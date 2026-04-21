@@ -4,7 +4,7 @@
 
 ---
 
-### 3/23/26: Learning Log 4
+### 3/23/26: Learning Log 1
 * Things you tried / progress you made
   * Learned that A-Frame is built using HTML and works directly in the browser.
   * Created a basic <a-scene> to understand how 3D scenes are structured.
