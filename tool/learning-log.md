@@ -5,7 +5,20 @@
 ---
 
 ### 3/23/26:
-* Text
+* Things you tried / progress you made
+ * Learned that A-Frame is built using HTML and works directly in the browser.
+ * Created a basic <a-scene> to understand how 3D scenes are structured.
+ * Added simple primitives like <a-box> and <a-sphere> to test how objects appear.
+ * Experimented with changing attributes like position, color, and size in HTML.
+ *Learned that primitives are simple versions of 3D objects made for beginners.
+* Challenges
+  * At first, the scene looked empty and I didn’t understand why nothing was showing.
+  * It was confusing at first to understand how objects appear in the scene.
+* Question I still have
+  * How can I make more advanced 3D scenes using A-Frame?
+* What I’m going to try next
+  * Try building a more detailed scene using multiple primitives.
+  * Continue practicing changing position, color, and size.
 ### 4/9/26
 
 ### 4/20/26:
