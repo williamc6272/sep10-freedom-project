@@ -73,3 +73,4 @@ Forensics](https://www.grierforensics.com/capabilities/device-forensics/)
    *  They can detect hidden patterns, solve cold cases, and access encrypted data, making investigations quicker and more precise.
    *  Here is what they might look in the future ![Quantum Computers](https://live.staticflickr.com/7923/46753932291_83668e4bc9_b.jpg)
 https://wireframe.cc/LjwreM
+https://wireframe.cc/W5KwCC
