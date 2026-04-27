@@ -8,7 +8,8 @@
 * `#ABC123`
 
 ## Fonts
-* [Text](URL)
+* [Montserrat](https://fonts.google.com/specimen/Montserrat)
+* [Rubik](https://fonts.google.com/specimen/Rubik)
 
 ## Timeline
 * 4/28 Work on writing the title, part 1 and part 2 content in paragraphs.
