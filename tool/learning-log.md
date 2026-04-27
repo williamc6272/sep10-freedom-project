@@ -18,7 +18,7 @@
 ### Day 3: Potentially add an animation and finalize the final model
 
 * I am learning how to use the <a-scene> 3d Model on Jsbin bin.
-* One thing
+* One thing that I am curious about is why
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
