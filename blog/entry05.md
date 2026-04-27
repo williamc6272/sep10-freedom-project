@@ -18,6 +18,7 @@ I started using A-Frame to begin creating a 3D model of my nanotech robot and qu
 During this stage in my sep 10 freedom project I developed how to learn. Most of the HTML here seemed new to me as much of it was not previously taught during SEP 10 such a `<a-scene>` and `<a-camera>` so I had to self teach this to myself and learn how to position and camera accordingly so its within you scene.
 #### Creativity
 During this stage in my sep 10 freedom project I improved my creativity. I used new shapes, and new `html` code to start experimenting with how my quantum computer and nanotech robot innovation will look like. In addition to this I have to design a wesbite according to how proffessional it will look like to others based on phone and computers. I had to plan on using specific bootstrap components that`ll work with the design of my website and rule out ones that dont.
-
+#### Logical reasoning
+During this stage in my sep 10 freedom project I improved my logical reasoning. I had to properly design a website so that its not overcomplicated, and a user can easily navigate through. I also uused bootystrap components that will properly go with the design of my website like a navbar, card, accoridon in order to not have a complicated website where users have difficulty interacting. I had to also logically think of the way ill design my innovation using A-frame as I have to use certain textures like metal certain shapes like spheres, and correctly position the camera so the full design is in scene.
 [Home](../README.md)
 [Previous](entry04.md) | [Next](entry06.md)
