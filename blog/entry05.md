@@ -6,12 +6,7 @@ For this part of my Freedom Project, I am using creating the wireframe, and plan
 
 Here’s an example of the code I used camera positioning:
 ``` HTML
-<a-box 
-  position="-1 0.5 -3" 
-  rotation="0 45 0" 
-  color="#4CC3D9"
-  animation="property: rotation; to: 0 405 0; loop: true; dur: 4000">
-</a-box>
+
 ```
 In addition to using A-Frame for the 3D scene, I will Bootstrap to make the project easier to navigate. I added a navbar so people can move between sections, and an accordion to show the prices of modern forensic science technology. This way, my project is both interactive and easy to explore. My [wireframe.cc](https://wireframe.cc/LjwreM) is where I created my plan for what I want my website to look like, and I plan on making the **plan.md**, following with the final mvp of my **freedom project**
 
