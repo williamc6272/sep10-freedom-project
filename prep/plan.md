@@ -5,7 +5,8 @@
 * [Desktop](https://wireframe.cc/LjwreM)
 
 ## Colors
-* `#ABC123`
+* `#202124
+* `#160f7b
 
 ## Fonts
 * [Montserrat](https://fonts.google.com/specimen/Montserrat)
