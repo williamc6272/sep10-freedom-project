@@ -3,7 +3,9 @@
 
 ## Content 
 ## Content 
-For this part of my Freedom Project, I am using creating the wireframe, and plan which will eventually lead to th MVP of my freedom project. I have bee using [A-Frame](https://aframe.io/docs/1.7.0/introduction/), a VR tool that lets me create 3D environments in a web browser as the model creator for my future **Forensic Science** innovation. I started to learn how to camera positions to make your 
+For this part of my Freedom Project, I am using creating the wireframe, and plan which will eventually lead to th MVP of my freedom project. I have bee using [A-Frame](https://aframe.io/docs/1.7.0/introduction/), a VR tool that lets me create 3D environments in a web browser as the model creator for my future **Forensic Science** innovation. I started to learn how to camera positions to make your image appear closer. 
+
+
 
 I will use A-Frame to design a 3D model of nano robots, arranging and animating them to show how they would move and work at crime scenes.
 
