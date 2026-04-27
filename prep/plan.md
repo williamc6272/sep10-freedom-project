@@ -27,7 +27,8 @@
 
 #### Beyond MVP
 
-* Task
+* Animation to my A-frame design
+* Add other bootstrap components like buttons to my cards
 
 
 
