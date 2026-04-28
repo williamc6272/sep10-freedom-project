@@ -4,9 +4,26 @@
 ## Content 
 For this part of my Freedom Project, I am using creating the wireframe, and plan which will eventually lead to th MVP of my freedom project. I have been using [A-Frame](https://aframe.io/docs/1.7.0/introduction/), a VR tool that lets me create 3D environments in a web browser as the model creator for my future **Forensic Science** innovation. I started to learn how to camera positions to make your image appear closer. 
 
-Here’s an example of the code I used camera positioning:
+Here’s an example of the code how I used camera positioning:
 ``` HTML
-
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>A-Frame Camera Example</title>
+    <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-camera position="0 1.6 5"></a-camera>
+      <a-box position="0 1 -3" color="blue"></a-box>
+      <a-sphere position="2 1 -5" radius="1" color="red"></a-sphere>
+      <a-cylinder position="-2 1 -4" radius="0.5" height="2" color="green"></a-cylinder>
+      <a-plane position="0 0 -4" rotation="-90 0 0" width="10" height="10" color="#ccc"></a-plane>
+      <a-light type="directional" position="0 5 5"></a-light>
+    </a-scene>
+  </body>
+</html>
 ```
 In addition to using A-Frame for the 3D scene, I will Bootstrap to make the project easier to navigate. I added a navbar so people can move between sections, and an accordion to show the prices of modern forensic science technology. This way, my project is both interactive and easy to explore. My [wireframe.cc](https://wireframe.cc/LjwreM) is where I created my plan for what I want my website to look like, and I plan on making the **plan.md**, following with the final mvp of my **freedom project**
 
