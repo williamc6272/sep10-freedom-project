@@ -19,7 +19,7 @@
 * What I’m going to try next
   * Try building a more detailed scene using multiple primitives.
   * Continue practicing changing position, color, and size.
-### 4/9/26
+### 4/1/26: Learning Log 3
 
 ### 4/20/26:
 * Text
