@@ -19,8 +19,24 @@
 * What I’m going to try next
   * Try building a more detailed scene using multiple primitives.
   * Continue practicing changing position, color, and size.
-### 4/1/26: Learning Log 3
-
+### 4/1/26: Learning Log 2
+* Things you tried / progress you made
+  * Used A-Frame to experiment with <a-camera> and learned how camera positioning affects what the user sees.
+  * Changed the camera’s position to make objects appear closer or farther away.
+  * Built a more detailed scene by adding multiple objects like boxes, spheres, and cylinders.
+  * Started understanding how the Z-axis controls depth in a 3D environment.
+  * Began combining A-Frame with Bootstrap to improve navigation on my site.
+* Challenges
+  * It was confusing to understand how the X, Y, and Z axis work in a 3D space.
+  * I didn’t know which direction each axis controlled at first.
+  * I tinkered with different position values and tested changes until I understood how X controls left/right, Y controls up/down, and Z controls forward/backward.
+  * Sometimes objects didn’t appear because they were placed behind the camera or too far away.
+* Question I still have
+  * How can I allow users to move around the scene (like walking in first person)?
+* What I’m going to try next
+  * Add movement controls to the camera.
+  * Experiment with user interaction like clicking or hovering over objects.
+  * Continue improving the layout of my website using Bootstrap.
 ### 4/20/26:
 * Text
 ### William Calvo • 4/20/25 Learning Log 4
