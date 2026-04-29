@@ -37,8 +37,26 @@
   * Add movement controls to the camera.
   * Experiment with user interaction like clicking or hovering over objects.
   * Continue improving the layout of my website using Bootstrap.
-### 4/20/26:
-* Text
+4/10/26: Learning Log 3
+
+* Things you tried / progress you made
+  * Learned how to use A-Frame components like lighting and better scene setup to improve how objects look
+  * Experimented with adding textures to objects to make them look more realistic instead of plain colors
+  * Practiced positioning multiple objects together to start building a more complete 3D environment
+  * Began testing simple user interaction ideas like clicking or looking at objects in the scene
+  * Improved understanding of how different A-Frame attributes work together to create a full scene
+* Challenges
+  * It was hard to make the scene look realistic because lighting and textures didn’t always work the way I expected
+  * Some objects still appeared too large or too small when combined in the same scene
+  * I had trouble understanding how to make objects interact with the user instead of just being static
+* Question I still have
+  * How can I make objects respond when a user looks at or clicks them in A-Frame?
+* What I’m going to try next
+  * Keep experimenting with textures and lighting to improve realism
+  * Try adding simple interaction events like clicks or hover effects
+  * Start preparing to combine everything into a more advanced 3D scene
+* One thing that I am curious about is
+  * how developers create full interactive 3D worlds in A-Frame that feel like real environments
 ### William Calvo • 4/20/25 Learning Log 4
 ### Day 1: I plan to keep testing with the 3d models. Throughout my shabr project there were many bootstrap components that I wanted to use but unfortunaly because of time and keeping the website at being a good this wasn't possible. Similarly I want to this time ensure I use everything from Aframe that'll help me with my freedom project, and creating a good 3d model for my innovation.
 
