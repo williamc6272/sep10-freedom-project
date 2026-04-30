@@ -3,6 +3,7 @@ text-align: center;
 font-size: 36px;
 color: black;
 }
+
 body{
-    background-image: linear-gradient(black, dark blue);
+    background-image: linear-gradient(black, blue);
 }
