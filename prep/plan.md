@@ -7,6 +7,8 @@
 ## Colors
 * `#202124
 * `#160f7b
+* `#a8d0ff
+* `#cbb3ff
 
 ## Fonts
 * [Montserrat](https://fonts.google.com/specimen/Montserrat)
