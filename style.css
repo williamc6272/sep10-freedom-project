@@ -7,3 +7,12 @@ color: black;
 body{
     background-image: linear-gradient(black, blue);
 }
+.card {
+    background-color: #2e1a47;
+    color: #a8d0ff;
+    border: none;
+    box-shadow: 0 0 10px rgba(168, 208, 255, 0.3);
+}
+.card-title {
+    color: #cbb3ff; 
+}
