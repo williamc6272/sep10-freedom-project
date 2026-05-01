@@ -19,3 +19,9 @@ body{
 p {
     color: #a8d0ff;
 }
+.montserrat-<p> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
