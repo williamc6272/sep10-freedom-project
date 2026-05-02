@@ -2,7 +2,7 @@ h1 {
 text-align: center;
 font-size: 36px;
 color: black;
-color: #00ffff
+color: #008b8b
 }
 
 body{
@@ -19,12 +19,6 @@ body{
 }
 p {
     color: #a8d0ff;
-}
-.montserrat-<p> {
-  font-family: "Montserrat", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
 }
 h2 {
 text-align: center;
