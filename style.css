@@ -17,12 +17,12 @@ body{
 .card-title {
     color: #cbb3ff;
 }
-p {
-    color: #a8d0ff;
-    text-align: center
-    font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
+.montserrat-p {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
   font-style: normal;
+  text-align: center;
 }
 h2 {
     text-align: center;
