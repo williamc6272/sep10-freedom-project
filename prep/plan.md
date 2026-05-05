@@ -45,7 +45,7 @@ https://www.airscience.com/wp-content/uploads/2024/04/PCR_BLOG_v2.jpg
 | -------- | ------- | ------- |
 | Colin | I like the blue colour scheme and use of dropdowns. | Perhaps use fonts to make your project pop out more? And you could also fix spelling and writing. |
 | Christian | I like the way you used accordion. | Maybe change the h2 headings since the grey gets blended in with the blue. |
-|  |  |  |
+| Lily | It's an amazing website and I really like that they have clickable descriptions and its very descriptive on all the boxes. Also the overview button works too.  | I don't really have much to say but maybe make it so the fonts are more intense so it looks a little more cool but i don't have much else to say. |
 |  |  |  |
 |  |  |  |
 
