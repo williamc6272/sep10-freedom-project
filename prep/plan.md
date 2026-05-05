@@ -43,7 +43,7 @@ https://www.airscience.com/wp-content/uploads/2024/04/PCR_BLOG_v2.jpg
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+| Colin | I like the blue colour scheme and use of dropdowns. | Perhaps use fonts to make your project pop out more? And you could also fix spelling and writing. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
