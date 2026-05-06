@@ -31,6 +31,9 @@ https://www.airscience.com/wp-content/uploads/2024/04/PCR_BLOG_v2.jpg
 
 * Animation to my A-frame design
 * Add other bootstrap components like buttons to my cards
+* Use different colors for my h2s
+* Add better fonts, maybe different from title to paragraphs
+* Fix some spelling.
 
 
 
