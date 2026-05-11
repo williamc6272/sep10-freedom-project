@@ -6,6 +6,7 @@ For this part of my Freedom Project, my website was based on forensic science, a
 ![Screenshot of Freedom Project](../Sep10FreedomProject1.png)
 ## EDP
 For my Freedom Project, I used my wireframe and planning as a guide to develop my ideas about future technologies like nanotech robots and quantum computers. By mapping out the layout and structure beforehand, I could organize my thoughts clearly and decide where each part of my project would go. I used cards to describe each innovation, showing what the nanotech robots might look like and how they could operate in forensic science, and explaining how quantum computers could improve investigations. The wireframe helped me ensure that these ideas were presented in a logical and visually appealing way, making it easier for viewers to understand my concepts. Through this process, I learned how planning, design, and thoughtful organization can turn abstract ideas into a clear, interactive way
+![Screenshot of Freedom Project](../sep10edp.png)
 ## Skills
 #### Time Management
 During this stage in my SEP 10 Freedom Project I improved my time management skills. I used my plan.md and timeline to decide when to add Bootstrap components, style my CSS, and include images, which helped me stay organized and ensure the website was completed step by step. Planning ahead made it easier to balance adding interactive features like cards and accordions while keeping the website functional.
@@ -15,7 +16,7 @@ During this stage in my SEP 10 Freedom Project I improved my creativity. I had t
 
 #### Problem Solving and Logical Reasoning
 During this stage in my SEP 10 Freedom Project I improved my problem solving and logical reasoning. My website was often buggy because I was missing divs or misusing the grid, so I had to carefully debug and logically plan each section. I had to think about the structure of my Bootstrap grid and how each component fit together, ensuring users could navigate easily and understand my innovations clearly.
-![Screenshot of Freedom Project](../sep10edp.png)
+
 
 
 [Previous](entry05.md) | [Next](entry07.md)
