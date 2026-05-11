@@ -17,6 +17,9 @@ During this stage in my SEP 10 Freedom Project I improved my creativity. I had t
 #### Problem Solving and Logical Reasoning
 During this stage in my SEP 10 Freedom Project I improved my problem solving and logical reasoning. My website was often buggy because I was missing `div` or misusing the grid, so I had to carefully debug and logically plan each section. I had to think about the structure of my Bootstrap grid and how each component fit together, ensuring users could navigate easily and understand my innovations clearly.
 
+## Summary
+My SEP 10 Freedom Project had several challenges, mainly in planning and organizing my website to clearly present my ideas. I had to follow my plan.md and timeline to decide when to add Bootstrap components, style CSS, and include images, which required careful time management. I learned to work independently, making decisions abou colors, and interactive elements to showcase my innovations like nanotech robots and quantum computers. Using creativity and logical reasoning, I designed cards and sections that were both professional and easy to navigate. Through problem solving and careful organization, I was able to create a fully functional, polished website that effectively presented my futuristic ideas. This project taught me independence, persistence, and how to turn my wireframe and ideas into a clear and interactive website.
+
 
 
 [Previous](entry05.md) | [Next](entry07.md)
