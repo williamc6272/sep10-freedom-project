@@ -33,8 +33,9 @@ Challenges:
 Explain the main takeaway:
 * Technology improves accuracy and speed in forensic investigations
 * Cost and accessibility remain major challengesFuture innovations could revolutionize crime-solving
-End with:
-* “The future of forensic science may allow investigators to solve crimes that today seem impossible.”
+
+* End with:
+  * “The future of forensic science may allow investigators to solve crimes that today seem impossible.”
 
 <!-- EXAMPLE
 
