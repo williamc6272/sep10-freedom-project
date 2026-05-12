@@ -1,16 +1,40 @@
 # Presentation Plan
 
 ## Hook
-* 
-
+* Tell fun fact: over 40% of U.S. labs face, at minimum, significant processing delays due to resource constraints.
+* Show an image of a forensic lab.
+* Introduce the problem: many forensic labs lack funding and advanced technology are expensive and many crime scenes remain unsolved due to limit of technology
 ## Product
-* 
+* Introduction to forensic science
+* Existing technologies
+* Pricing accordion
+* Future technology cards
+* Highlight how the website explains both current and future forensic tools
 
 ## Process
-* 
+Discuss creating:
+* Navbar with section links
+* Accordion for technology pricing
+* Cards for future technology ideas
+
+Mention research process:
+* Looking into DNA analysis
+* PCR preparation stations
+* Digital forensics tools
+* Future concepts like nanotechnology and quantum computers
+Challenges:
+* Organizing large amounts of information
+* Making the website visually balanced
+* Fixing spacing, responsiveness, and grammar issues
 
 ## Conclusion
-* 
+* Present the final website/project
+Explain the main takeaway:
+* Technology improves accuracy and speed in forensic investigations
+* nCost and accessibility remain major challenges
+* Future innovations could revolutionize crime-solving
+End with:
+* “The future of forensic science may allow investigators to solve crimes that today seem impossible.”
 
 <!-- EXAMPLE
 
