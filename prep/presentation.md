@@ -32,8 +32,7 @@ Challenges:
 * [Project](https://williamc6272.github.io/sep10-freedom-project/)
 Explain the main takeaway:
 * Technology improves accuracy and speed in forensic investigations
-* Cost and accessibility remain major challenges
-* Future innovations could revolutionize crime-solving
+* Cost and accessibility remain major challengesFuture innovations could revolutionize crime-solving
 End with:
 * “The future of forensic science may allow investigators to solve crimes that today seem impossible.”
 
