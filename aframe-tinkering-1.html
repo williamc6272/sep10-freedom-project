@@ -17,14 +17,51 @@
     <body>
         <!-- HTML -->
 
-        
-  <a-scene>
-      <a-box position="-1 0.5 -3" rotation="0 45 0" color="#4CC3D9"></a-box>
-      <a-sphere position="0 1.25 -5" radius="1.25" color="#EF2D5E"></a-sphere>
-      <a-cylinder position="1 0.75 -3" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
-      <a-plane position="0 0 -4" rotation="-90 0 0" width="4" height="4" color="#7BC8A4"></a-plane>
-      <a-sky color="#ECECEC"></a-sky>
-    </a-scene>
+
+  <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+
+<a-scene background="color:#3b2a1f" fog="type: exponential; color: #3b2a1f; density: 0.03">
+
+  <a-entity camera position="0 2.9 3.7" look-controls></a-entity>
+
+  <a-light type="ambient" intensity="1.8" color="#ffffff"></a-light>
+  <a-light type="point" intensity="7" color="#ffd27a" position="0 5 4"></a-light>
+
+  <a-cylinder position="0 4 -5" radius="2" height="0.2" color="#ffd27a"></a-cylinder>
+  <a-cylinder position="0 1 -5" radius="2" height="0.2" color="#ffd27a"></a-cylinder>
+
+  <a-torus position="0 2.5 -5" radius="2" radius-tubular="0.04" color="#fff2cc" rotation="90 0 0"
+    animation="property: rotation; to: 90 360 0; loop: true; dur: 9000; easing: linear">
+  </a-torus>
+
+  <a-cylinder position="0 2.5 -5" radius="0.25" height="3" color="#3aa0ff"
+    material="emissive:#1a6cff; emissiveIntensity:1.8; metalness:0.2; roughness:0.3"
+    animation="property: material.emissiveIntensity; from: 1; to: 2.5; dir: alternate; loop: true; dur: 1200">
+  </a-cylinder>
+
+  <a-cylinder position="0 2.5 -5" radius="0.5" height="3" color="#66b3ff" opacity="0.25" transparent="true"
+    material="emissive:#2f8cff; emissiveIntensity:0.8">
+  </a-cylinder>
+
+  <a-entity id="strings">
+
+    <a-cylinder position="0.8 2.5 -5" radius="0.01" height="3" color="#ffdd88"></a-cylinder>
+    <a-cylinder position="-0.8 2.5 -5" radius="0.01" height="3" color="#ffdd88"></a-cylinder>
+
+    <a-cylinder position="1.2 2.5 -5" radius="0.01" height="3" color="#ffcc66"></a-cylinder>
+    <a-cylinder position="-1.2 2.5 -5" radius="0.01" height="3" color="#ffcc66"></a-cylinder>
+
+    <a-cylinder position="1.6 2.5 -5" radius="0.01" height="3" color="#fff2cc"></a-cylinder>
+    <a-cylinder position="-1.6 2.5 -5" radius="0.01" height="3" color="#fff2cc"></a-cylinder>
+
+    <a-cylinder position="0.4 2.5 -5" radius="0.008" height="3" color="#ffdd88" opacity="0.8"></a-cylinder>
+    <a-cylinder position="-0.4 2.5 -5" radius="0.008" height="3" color="#ffdd88" opacity="0.8"></a-cylinder>
+
+  </a-entity>
+
+  <a-sky color="#5a3a2a"></a-sky>
+
+</a-scene>
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
