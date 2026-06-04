@@ -10,8 +10,11 @@ I followed the engineering design process by first identifying the problem that 
 ## Skills
 #### Time Management
 I improved my time management skills by planning how to organize and complete different parts of my website within the project deadline. I also learned to manage my time effectively during my Expo pitch by delivering clear and focused explanations within a limited time frame.
-
-
+#### Creativity
+I used creativity in this project by designing future forensic technologies like nano tech robots and quantum computers to solve real world problems. I also used creativity in my slideshow by adding a strong hook at the beginning to grab the audience’s attention and make my presentation more engaging.
+#### Self Dependency
+I developed self dependency by independently researching forensic science technologies and deciding how to organize and present my information. I also learned to  build my website and A-Frame simulation on my own, making decisions without relying heavily on outside help.
+## Summary 
 
 [Previous](entry06.md) | [Next](entry08.md)
 
