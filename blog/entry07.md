@@ -15,7 +15,7 @@ I used creativity in this project by designing future forensic technologies like
 #### Self Dependency
 I developed self dependency by independently researching forensic science technologies and deciding how to organize and present my information. I also learned to  build my website and A-Frame simulation on my own, making decisions without relying heavily on outside help.
 ## Summary 
-
+Some key takeaways from this project are that I became more confident speaking in front of others. I learned how to present my ideas more comfortably by practicing and focusing on clear communication. Overall, this helped me feel less nervous and more prepared when presenting to an audience.
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
