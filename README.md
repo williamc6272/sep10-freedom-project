@@ -10,13 +10,13 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X
 
 ## Links
 
-[Product]()
+[Product](https://williamc6272.github.io/sep10-freedom-project/)
 
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/1uIvAN0ObVgl3KCSVhK8lotM1zAf6Nzno8RA7rY2XW-s/edit)
 
 ## Implications
 ##### PROS
-* 
+* Managing Time – Balancing research, website design, and content writing within the project timeline was a major challenge. Prioritizing tasks and staying organized was essential to complete each milestone on schedule.
 ##### CONS
 * 
 
