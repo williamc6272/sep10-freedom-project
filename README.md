@@ -6,7 +6,7 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 
 For my project, I chose the topic of **Forensic Science**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make my website. I also independently studied forensic science to gather information and help me create my site.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Forensic Science Technology** in order to help me make my website. I also independently studied forensic science to gather information and help me create my site.
 
 ## Links
 
