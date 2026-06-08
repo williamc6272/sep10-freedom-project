@@ -16,7 +16,11 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X
 
 ## Implications
 ##### PROS
-
+* Better investigations – Tools like DNA analysis and digital forensics make solving crimes more accurate.
+* Faster results – Advanced technology helps process evidence more quickly.
+* Self-dependence – Working on this project improved my research and problem solving skills.
+* Creativity – I could design the website in a way that makes forensic science interesting and easy to understand. I could apply my own ideas without worrying of a merge with other ideas.
+* Learning about future technology – I got to explore new tools that might change how crimes are investigated.
 ##### CONS
 * Managing Time – Balancing research, website design, and content writing within the project timeline was a major challenge. Prioritizing tasks and staying organized was essential to complete each milestone on schedule.
 * Finding Reliable Information – Locating accurate and up to date information about forensic technologies was difficult, especially for experimental or high cost innovations that are not widely published.
