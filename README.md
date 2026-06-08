@@ -16,9 +16,12 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X
 
 ## Implications
 ##### PROS
-* Managing Time – Balancing research, website design, and content writing within the project timeline was a major challenge. Prioritizing tasks and staying organized was essential to complete each milestone on schedule.
+
 ##### CONS
-* 
+* Managing Time – Balancing research, website design, and content writing within the project timeline was a major challenge. Prioritizing tasks and staying organized was essential to complete each milestone on schedule.
+* Finding Reliable Information – Locating accurate and up to date information about forensic technologies was difficult, especially for experimental or high cost innovations that are not widely published.
+* Understanding Complex Technologies – Some forensic tools, such as DNA sequencing machines or quantum computing simulations, involve complex scientific principles that required extra effort to fully understand and explain in an accessible way.
+* Public Speaking and Eye Contact – Presenting the project to an audience was challenging, particularly maintaining eye contact, speaking clearly, and confidently explaining technical information in a way that kept the audience engaged.
 
 
 ## Blog
